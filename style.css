@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px
+}
+body{
+    background-color: black
+}
+
+.but{
+    padding-left: 10px;
+    width: 200px;
+    height: 40px;
+    margin: 15px; 
+    background-color: rgb(233, 241, 241);
+    border: 1px solid black;
+    border-radius: 10px;
+
+}
